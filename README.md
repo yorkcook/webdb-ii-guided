@@ -14,4 +14,4 @@ Guided project **DB II** Module.
 - [ ] type `npm i` to download dependencies.
 - [ ] type `npm run server` to start the API.
 
-Please follow along as the instructor explores schema design with this API.
+Please follow along as the instructor explores schema design with this API..
